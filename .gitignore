@@ -1,0 +1,15 @@
+
+# Secret encryption key
+secret.key
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Test files
+my_notes.txt
+*.encrypted
+restored_*.txt
